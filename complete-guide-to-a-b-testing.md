@@ -504,7 +504,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![png](datasets/output_9_0.png)
     
 
 
@@ -631,8 +631,8 @@ In our case, the dataset has already been preprocessed and does not contain any 
 By ensuring the data is properly preprocessed, we can proceed with the A/B testing confidently, knowing that the dataset is clean and suitable for accurate and reliable analysis.
 
 For more detailed information on data quality and data transformation, refer to the following guides:
-- [Complete Guide to Data Quality A to Z](https://www.kaggle.com/code/matinmahmoudi/complete-guide-to-data-quality-a-to-z)
-- [Complete Guide to Data Transformation A to Z](https://www.kaggle.com/code/matinmahmoudi/complete-guide-to-data-transformation-a-to-z)
+- [Complete Guide to Data Quality](https://www.kaggle.com/code/matinmahmoudi/complete-guide-to-data-quality-a-to-z)
+- [Complete Guide to Data Transformation](https://www.kaggle.com/code/matinmahmoudi/complete-guide-to-data-transformation-a-to-z)
 
 ## Removing Outliers Using the IQR Method
 
@@ -693,25 +693,25 @@ treatment_group.hist()
 
 
     
-![png](output_15_2.png)
+![png](datasets/output_15_2.png)
     
 
 
 
     
-![png](output_15_3.png)
+![png](datasets/output_15_3.png)
     
 
 
 
     
-![png](output_15_4.png)
+![png](datasets/output_15_4.png)
     
 
 
 
     
-![png](output_15_5.png)
+![png](datasets/output_15_5.png)
     
 
 
