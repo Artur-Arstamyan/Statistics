@@ -900,7 +900,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](datasets/output_18_0.png)
     
 
 
@@ -987,7 +987,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](datasets/output_21_0.png)
     
 
 
