@@ -2,6 +2,11 @@
 [Degrees of freedom](https://www.scribbr.com/statistics/degrees-of-freedom/)  
 [Statistical tests](https://www.scribbr.com/statistics/statistical-tests/)  
 [Real Statistics Using Excel](https://real-statistics.com/)
+![flowchart-for-choosing-a-statistical-test](https://github.com/user-attachments/assets/3d9836cd-28e9-4b3c-ab2d-c52fe8f054c4)
+![Choosing a nonparametric test](https://github.com/user-attachments/assets/a42cb1aa-ef84-43db-9370-724f355d703b)
+![test-dof](https://github.com/user-attachments/assets/0818fb46-f5b4-4142-9106-b11d379bd9f3)
+
+
 ## Hypothesis-testing  
 [zedstatistics](https://youtu.be/zR2QLacylqQ?si=eQVlMjNKZnpe--nF)  
 [P-value calculators](https://www.socscistatistics.com/pvalues/)  
