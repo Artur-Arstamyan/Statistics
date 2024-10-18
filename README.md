@@ -1,5 +1,6 @@
 # Statistics
 [Degrees of freedom](https://www.scribbr.com/statistics/degrees-of-freedom/)  
+[Statistical tests](https://www.scribbr.com/statistics/statistical-tests/)  
 [Real Statistics Using Excel](https://real-statistics.com/)
 ## Hypothesis-testing  
 [zedstatistics](https://youtu.be/zR2QLacylqQ?si=eQVlMjNKZnpe--nF)  
