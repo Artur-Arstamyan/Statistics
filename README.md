@@ -2,7 +2,8 @@
 [Degrees of freedom](https://www.scribbr.com/statistics/degrees-of-freedom/)  
 [Statistical tests](https://www.scribbr.com/statistics/statistical-tests/)  
 [Real Statistics Using Excel](https://real-statistics.com/)
-<img src='https://i.postimg.cc/VsB6HjWx/overview-statistical-tests.jpg'>
+![overview-statistical-tests](https://github.com/user-attachments/assets/fd0ce4e0-3811-43b6-8e92-49eb7b2e15e2)
+
 
 
 ## Hypothesis-testing  
