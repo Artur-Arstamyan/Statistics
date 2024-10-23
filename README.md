@@ -1,15 +1,13 @@
 # Statistics
 [Degrees of freedom](https://www.scribbr.com/statistics/degrees-of-freedom/)  
-[Statistical tests](https://www.scribbr.com/statistics/statistical-tests/)  
 [Real Statistics Using Excel](https://real-statistics.com/)
-![overview-statistical-tests](https://github.com/user-attachments/assets/fd0ce4e0-3811-43b6-8e92-49eb7b2e15e2)
-
-
 
 ## Hypothesis-testing  
+[Statistical tests](https://www.scribbr.com/statistics/statistical-tests/)  
 [zedstatistics](https://youtu.be/zR2QLacylqQ?si=eQVlMjNKZnpe--nF)  
 [P-value calculators](https://www.socscistatistics.com/pvalues/)  
 [Simulation of sampling distributions](https://onlinestatbook.com/stat_sim/sampling_dist/index.html)  
+![overview-statistical-tests](https://github.com/user-attachments/assets/fd0ce4e0-3811-43b6-8e92-49eb7b2e15e2)
 ### T table
 ![T-table](https://github.com/user-attachments/assets/2ca716e9-64f8-4c76-b96c-9fc3745aca66)
 ### Chi-Square(Χ²) Table  
