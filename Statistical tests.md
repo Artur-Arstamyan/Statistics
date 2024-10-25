@@ -440,7 +440,7 @@ conclude(p_value, a)
 - The test **is typically used** when the sample size is large enough. If the data has **cells** with very small counts (especially **less than 5**), it’s better to use **an exact version of McNemar's test** (binomial distribution rather than chi-square approximation).
 
 
-# Example 1
+## Example 1
 
 You want to test whether a new drug significantly reduces the number of smokers at the **5% significance level**. You ask **100 people** before and after taking the drug whether they smoke or not. The results are as follows:
 
