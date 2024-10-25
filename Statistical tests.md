@@ -125,7 +125,7 @@ else:
 
 
     
-![png](datasets/output_6_2.png)
+![png](output_6_2.png)
     
 
 
