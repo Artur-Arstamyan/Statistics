@@ -125,7 +125,7 @@ else:
 
 
     
-![png](output_6_2.png)
+![png](plots/output_6_2.png)
     
 
 
