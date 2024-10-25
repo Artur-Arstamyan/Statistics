@@ -568,7 +568,7 @@ conclude(p_value, a)
 - We can use Fisher's Exact Test when both **there is an expected frequency less than 5** and **there are exactly 2 groups** in each category.
 
 
-# Example 1
+## Example 1
 
 You want to know if there is an association between people’s **preferred mode of transportation** (car, bus, bike) and their **region** (urban, suburban, rural) at the **5% significance level**. The data is:
 
